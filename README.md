@@ -1,14 +1,14 @@
 # strategies
 
-*strategies* is a coordination game server. As long as the server is hosted by a party trusted not to obstruct games, steal player information, or be hacked by someone who will, players can create and coordinate on programmable strategies. Game strategies are executed on the server, with access to player authorized information required for strategy execution.
+*strategies* is a coordination game server. As long as the server is hosted by a party trusted not to obstruct games, steal player information, or be hacked by someone who will, players can create and coordinate on programmable strategies. Strategies are written, then uploaded to the server by players, and players can choose to follow someone else's strategies, fork a strategy, or invite others to follow their strategy.
 
 ## Prospective uses:
 
-- crowdfunding strategies
-- escrow strategies
-- money distribution strategies
+- crowdfunding
+- escrow
+- money distribution
 - smart contracts
-- credit exchange strategies
+- credit exchanges
 
 ## Example:
 
